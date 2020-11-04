@@ -1,0 +1,10 @@
+/PRACTICA1XML/
+    ./js/
+    ./media/
+        ./media/img/
+        ./media/vid/
+    ./style/
+    ./about.html
+    ./contact.html
+    ./form.html
+    ./index.html
